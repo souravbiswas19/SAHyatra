@@ -2,43 +2,23 @@
         "age": 18,
         "avgBudget": 10000,
         "check": 1,
-        "city": "Abbot mount",
-        "state": "Uttarakhand"
+        "state": "Uttarakhand",
+        "city": [{
+            "city1": "Abbot mount",
+            "city2": "Haridwar",
+            "city3": "Dehradun"
+        }]
     },
     {
         "age": 19,
         "avgBudget": 10000,
         "check": 1,
-        "city": "Abu",
-        "state": "Rajasthan"
-    },
-    {
-        "age": 23,
-        "avgBudget": 3,
-        "check": 1,
-        "city": "Ahmadabad",
-        "state": "Gujarat"
-    },
-    {
-        "age": 54,
-        "avgBudget": 1000,
-        "check": 1,
-        "city": "Bhopal",
-        "state": "Madhya Pradesh"
-    },
-    {
-        "age": 20,
-        "avgBudget": 15000,
-        "check": 1,
-        "city": "Gangtok",
-        "state": "Sikkim"
 
-    },
-    {
-        "age": 17,
-        "avgBudget": 20000,
-        "check": 1,
-        "city": "Visakhapatnam",
-        "state": "Andhra Pradesh"
+        "state": "Rajasthan",
+        "city": [{
+            "city1": "Abu",
+            "city2": "Jaipur",
+            "city3": "Ajmer"
+        }]
     }
 ]
