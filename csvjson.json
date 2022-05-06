@@ -42,8 +42,8 @@
         "state": "Andhra Pradesh"
     },
     {
-        "age": 20,
-        "avgBudget": 120000,
+        "age": 21,
+        "avgBudget": 1200,
         "check": 1,
         "city": "Vizag",
         "state": "Uttar Pradesh"
@@ -56,8 +56,8 @@
         "state": "West Bengal"
     },
     {
-        "age": 20,
-        "avgBudget": 120000,
+        "age": 27,
+        "avgBudget": 500,
         "check": 1,
         "city": "Vizag",
         "state": "Uttar Pradesh"
