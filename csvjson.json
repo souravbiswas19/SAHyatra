@@ -42,10 +42,10 @@
         "state": "Andhra Pradesh"
     },
     {
-        "age": 17,
-        "avgBudget": 20000,
+        "age": 20,
+        "avgBudget": 120000,
         "check": 1,
-        "city": "Visakhapatnam",
-        "state": "Andhra Pradesh"
+        "city": "Vizag",
+        "state": "Uttar Pradesh"
     }
 ]
