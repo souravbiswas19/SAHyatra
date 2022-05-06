@@ -41,11 +41,4 @@
         "city": "Visakhapatnam",
         "state": "Andhra Pradesh"
     }
-    {
-        "age": 12,
-        "avgBudget": 20000,
-        "check": 1,
-        "city": "Kolkata",
-        "state": "West Bengal"
-    }
 ]
