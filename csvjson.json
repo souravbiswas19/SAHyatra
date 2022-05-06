@@ -55,11 +55,11 @@
         "city": "Vizag",
         "state": "Uttar Pradesh"
     },
- {
+    {
         "age": 20,
         "avgBudget": 120000,
         "check": 1,
         "city": "Kolkata",
         "state": "West Bengal"
-    },
+    }
 ]
