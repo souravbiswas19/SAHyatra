@@ -41,4 +41,11 @@
         "city": "Visakhapatnam",
         "state": "Andhra Pradesh"
     }
+    {
+        "age": 17,
+        "avgBudget": 20000,
+        "check": 1,
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh"
+    }
 ]
