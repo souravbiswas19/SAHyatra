@@ -49,17 +49,17 @@
         "state": "Uttar Pradesh"
     },
     {
+        "age": 27,
+        "avgBudget": 500,
+        "check": 1,
+        "city": "Vizag",
+        "state": "Uttar Pradesh"
+    },
+ {
         "age": 20,
         "avgBudget": 120000,
         "check": 1,
         "city": "Kolkata",
         "state": "West Bengal"
     },
-    {
-        "age": 27,
-        "avgBudget": 500,
-        "check": 1,
-        "city": "Vizag",
-        "state": "Uttar Pradesh"
-    }
 ]
