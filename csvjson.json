@@ -1,33 +1,33 @@
 [{
-        "age": 18,
+        "ss": 5.2,
         "avgBudget": 10000,
         "check": 1,
         "city": "Abbot mount",
         "state": "Uttarakhand"
     },
     {
-        "age": 19,
+        "ss": 5.2,
         "avgBudget": 10000,
         "check": 1,
         "city": "Abu",
         "state": "Rajasthan"
     },
     {
-        "age": 23,
+        "ss": 5.2,
         "avgBudget": 3,
         "check": 1,
         "city": "Ahmadabad",
         "state": "Gujarat"
     },
     {
-        "age": 54,
+        "ss": 5.2,
         "avgBudget": 1000,
         "check": 1,
         "city": "Bhopal",
         "state": "Madhya Pradesh"
     },
     {
-        "age": 20,
+        "ss": 5.2,
         "avgBudget": 15000,
         "check": 1,
         "city": "Gangtok",
@@ -35,28 +35,28 @@
 
     },
     {
-        "age": 17,
+        "ss": 5.2,
         "avgBudget": 20000,
         "check": 1,
         "city": "Visakhapatnam",
         "state": "Andhra Pradesh"
     },
     {
-        "age": 21,
+        "ss": 5.2,
         "avgBudget": 1200,
         "check": 1,
         "city": "Vizag",
         "state": "Uttar Pradesh"
     },
     {
-        "age": 27,
+        "ss": 5.2,
         "avgBudget": 500,
         "check": 1,
         "city": "Vizag",
         "state": "Uttar Pradesh"
     },
     {
-        "age": 20,
+        "ss": 5.2,
         "avgBudget": 120000,
         "check": 1,
         "city": "Kolkata",
