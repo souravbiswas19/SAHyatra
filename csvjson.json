@@ -1,64 +1,64 @@
 [{
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 10000,
-        "check": 1,
+        "check": "1",
         "city": "Abbot mount",
         "state": "Uttarakhand"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 10000,
-        "check": 1,
+        "check": "1",
         "city": "Abu",
         "state": "Rajasthan"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 3,
-        "check": 1,
+        "check": "1",
         "city": "Ahmadabad",
         "state": "Gujarat"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 1000,
-        "check": 1,
+        "check": "1",
         "city": "Bhopal",
         "state": "Madhya Pradesh"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 15000,
-        "check": 1,
+        "check": "1",
         "city": "Gangtok",
         "state": "Sikkim"
 
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 20000,
-        "check": 1,
+        "check": "1",
         "city": "Visakhapatnam",
         "state": "Andhra Pradesh"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 1200,
-        "check": 1,
+        "check": "1",
         "city": "Vizag",
         "state": "Uttar Pradesh"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 500,
-        "check": 1,
+        "check": "1",
         "city": "Vizag",
         "state": "Uttar Pradesh"
     },
     {
-        "ss": 5.2,
+        "ss": "5.2",
         "avgBudget": 120000,
-        "check": 1,
+        "check": "1",
         "city": "Kolkata",
         "state": "West Bengal"
     }
