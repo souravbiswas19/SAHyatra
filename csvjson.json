@@ -1,65 +1,127 @@
 [{
-        "ss": "5.2",
         "avgBudget": 10000,
         "check": "1",
         "city": "Abbot mount",
-        "state": "Uttarakhand"
+        "state": "Uttarakhand",
+        "name": "Baga Beach",
+        "description": "One of the most popular beaches in North Goa, Baga Beach is located close to Calangute beach, around 30 Km North of Panjim. Baga is the perfect destination to witness the dazzling nightlife of Goa as signature places such as Britto's, Tito's and Mambos are located in the vicinity. Being one of the most visited beaches in the North, Baga also offers a vast range of water sports. Lined with an array of tattoo parlours, tarot shops, palmistry shops, spas, sun decks and some legendary shacks, it gives you a chance to live out your perfect beach holiday.",
+        "ss": "5.2",
+        "sr": "⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 10000,
         "check": "1",
         "city": "Abu",
-        "state": "Rajasthan"
+        "state": "Rajasthan",
+        "name": "Madgaon",
+        "description":"There are a number of temples and churches in Margao city The famous churches in Margao are the Holy Spirit Church, the Grace Church, The St Sebastian Church in Aquem (The Old St. Sebastian Chapel, popularly known as the Pandava Copel still stands next to the modern St. Sebastian Church) and the Monte Hill Chapel. The famous temples are the 'Damodar Temple' (Saal), the 'Hari Mandir', the 'Maruti Mandir' at Davorlim the 'Saibaba Temple' at Davorlim, the 'Shiv Temple' (Ling) at Fatorda near Nehru Stadium (which is the original Temple of Damodara). Pandava Caves Located in Aquem Behind St. Sebestian Church. There are two mosques in Margao, one in the Malbhat area and one on the Monte hill. There is also a Jain temple and a Jama'at Khana for the Khoja faith in Pajifond.",
+        "ss": "5.2",
+        "sr": "⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 3,
         "check": "1",
         "city": "Ahmadabad",
-        "state": "Gujarat"
+        "state": "Gujarat",
+        "name": "Panaji",
+        "description": "This is the capital of Goa, and the North Goa district. It is situated on the banks of the river “Mandovi”. It is connected to the mainland by bridges.Typical of a Goan town, Panaji is built around a church facing a prominent square. The town has some beautiful Portuguese Baroque style buildings and enchanting old villas. The riverside, speckled with brightly whitewashed houses with wrought iron balconies, offers a fine view.There are some fine government buildings along the riverside boulevard, and the Passport Office is especially noteworthy. In the 16th century, the edifice was the palace of Adil Shah (the Sultan of Bijapur). The Portuguese took over the palace and constructed the Viceregal Lodge in 1615.The Church Square is a fine illustration of the awesome Portuguese Baroque style. The Church of the Immaculate Conception is easily one of the most elegant and picturesque monuments in Goa.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 1000,
         "check": "1",
         "city": "Bhopal",
-        "state": "Madhya Pradesh"
+        "state": "Madhya Pradesh",
+        "name": "Bhubaneshwar",
+        "description": "Bhubaneswar, the temple city of India, once known for its architecture and grand temples, is presently a thriving centre for commerce and business.Bhubaneshwar is an ancient city replete with beautiful historic temples which attract pilgrims and tourists from all over the country. Bhubaneshwar being the centre for religious tourism has a number of majestic temples built centuries ago which have still retained their original over all these years. Among them the Lingaraj temple and the Parasurameswara temple are must-visits.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 15000,
         "check": "1",
         "city": "Gangtok",
-        "state": "Sikkim"
-
+        "state": "Sikkim",
+        "name": "Konark",
+        "description": "Konark, in the state of Orissa is renowned world over for the Sun Temple which is also a UNESCO World Heritage Site, the Annual dance festival and its beautiful sandy beaches. Konark's Sun Temple is an architectural marvel and is one of the most beautiful monuments of India. Konark sun temple is the must visit place in your travel bucket list if you love to explore the ancient histories.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 20000,
         "check": "1",
         "city": "Visakhapatnam",
-        "state": "Andhra Pradesh"
+        "state": "Andhra Pradesh",
+        "name": "Puri",
+        "description": "Puri in Odisha is one of the four must-visit pilgrimage sites for Hindus because of Jagannath Temple that forms the part of Char Dham in India. Puri is a beach city located on the coast of Bay of Bengal. Known as the resting place of Lord Shiva, the majestic history and heritage of Puri date back to the 3rd century B. C. Puri, Konark and Bhubaneshwar complete the Golden Triangle of Orissa, with their religious significance and cultural heritage. There are a lot of places near Puri that one must visit, like the Chilika lake, Dhabal Giri, Uday Giri, Khanda Giri, Lingaraj Temple, Raghurajpur - the artistic village.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 1200,
         "check": "1",
         "city": "Vizag",
-        "state": "Uttar Pradesh"
+        "state": "Uttar Pradesh",
+        "name": "Agra",
+        "description": "Located on the banks of River Yamuna in Uttar Pradesh, Agra is a popular tourist destination as it is home to one of the 7 wonders of the world, the Taj Mahal. It is a sneak peek into the architectural history and legacy of the Mughal empire with other amazing historical tourists spots Agra Fort, Fatehpur Sikri, Akbar Tomb, Jama Masjid Agra, Mehtab Bagh, Anguri Bagh, Taj Museum. History, architecture, romance all together create the magic of Agra, and makes it a must-visit for anyone living in or visiting India.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 500,
         "check": "1",
         "city": "Vizag",
-        "state": "Uttar Pradesh"
+        "state": "Uttar Pradesh",
+        "name": "Mathura",
+        "description": "One of Hinduism's seven sacred cities, Mathura is the birthplace of the very beloved Lord Krishna. Located in the state of Uttar Pradesh, Mathura and Vrindavan are often considered twin cities (located only 10km away from each other). Mathura is a small town dotted with temples from various ages and attracts a horde of pilgrims from all over the world. One side of Mathura is stretched across the Yamuna River, lined with 25 ghats. Shri Krishna Janmabhumi is the most famous tourist attraction in Mathura, as this place is believed to the be the exact place where Lord Krishna was born, and the prison where he was born is now on display for tourists to see.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     },
     {
-        "ss": "5.2",
         "avgBudget": 120000,
         "check": "1",
         "city": "Kolkata",
-        "state": "West Bengal"
+        "state": "West Bengal",
+        "name": "Varanasi",
+        "description": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. There's a lot templates to visit but the Kashi Vishwanath Temple is the most visited temple in Varanasi. This divine city is also an important destination for Buddhists. Gautam Buddha preached his first sermon in Benaras, a part which is now in Sarnath.",
+        "ss": "4.2",
+        "sr": "⭐⭐⭐⭐",
+        "sm1": "🔴 Overcharging",
+        "sm2": "🟠 Scam",
+        "sm3": "🟡 Tease",
+        "sm4": "🟢 Safety"
     }
 ]
